@@ -1,0 +1,24 @@
+{
+  "format": "winCapture.update-feed",
+  "version": 1,
+  "product": "winCapture",
+  "release": {
+    "version": "0.1.0-alpha.1",
+    "notesUrl": "https://github.com/davideAurum/winCapture-releases/releases/tag/v0.1.0-alpha.1",
+    "setup": {
+      "file": "winCapture-0.1.0-alpha.1-setup.exe",
+      "url": "https://github.com/davideAurum/winCapture-releases/releases/download/v0.1.0-alpha.1/winCapture-0.1.0-alpha.1-setup.exe",
+      "bytes": 2430614,
+      "sha256": "ec470e344e0a8b518a159c2e2f0db8ae1825f4563f9c0cf78ae29737349eeb14"
+    },
+    "packages": [
+      {
+        "kind": "framework-dependent",
+        "file": "winCapture-0.1.0-alpha.1-portable.zip",
+        "url": "https://github.com/davideAurum/winCapture-releases/releases/download/v0.1.0-alpha.1/winCapture-0.1.0-alpha.1-portable.zip",
+        "bytes": 512623,
+        "sha256": "6aab0330fcc73a8367f46fddae794e9436aeaea8f3b985d52735211acf91b51b"
+      }
+    ]
+  }
+}
