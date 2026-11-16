@@ -3,21 +3,21 @@
   "version": 1,
   "product": "winCapture",
   "release": {
-    "version": "0.1.0-alpha.2",
-    "notesUrl": "https://github.com/davideAurum/winCapture-releases/releases/tag/v0.1.0-alpha.2",
+    "version": "0.1.0-alpha.3",
+    "notesUrl": "https://github.com/davideAurum/winCapture-releases/releases/tag/v0.1.0-alpha.3",
     "setup": {
-      "file": "winCapture-0.1.0-alpha.2-setup.exe",
-      "url": "https://github.com/davideAurum/winCapture-releases/releases/download/v0.1.0-alpha.2/winCapture-0.1.0-alpha.2-setup.exe",
-      "bytes": 2430822,
-      "sha256": "e6da2f66cd239d9b7815db8e1aead8cd93dbcb29bc460d4f4335423c038be975"
+      "file": "winCapture-0.1.0-alpha.3-setup.exe",
+      "url": "https://github.com/davideAurum/winCapture-releases/releases/download/v0.1.0-alpha.3/winCapture-0.1.0-alpha.3-setup.exe",
+      "bytes": 2652825,
+      "sha256": "66a7d6ff9a6e429aa9dbd4865f232b9ba041b939ade89bd76ab1d813b2ec2ed2"
     },
     "packages": [
       {
         "kind": "framework-dependent",
-        "file": "winCapture-0.1.0-alpha.2-portable.zip",
-        "url": "https://github.com/davideAurum/winCapture-releases/releases/download/v0.1.0-alpha.2/winCapture-0.1.0-alpha.2-portable.zip",
-        "bytes": 512639,
-        "sha256": "8e4cab44b188229e40d07da65d7bbcde62cfd3345f2dc57377acedb8ef7f5608"
+        "file": "winCapture-0.1.0-alpha.3-win-x64-framework-dependent.zip",
+        "url": "https://github.com/davideAurum/winCapture-releases/releases/download/v0.1.0-alpha.3/winCapture-0.1.0-alpha.3-win-x64-framework-dependent.zip",
+        "bytes": 821073,
+        "sha256": "8d66f13cf4ae707d9ebb38692a7909afa32d1240984f629a129744d2b273b2b3"
       }
     ]
   }
